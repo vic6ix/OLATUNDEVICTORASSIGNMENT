@@ -1,4 +1,4 @@
-// ========================
+yar// ========================
 // DO NOT EDIT THIS BLOCK
 const assignment = {};
 // ========================
@@ -20,7 +20,7 @@ function sumOfNumbers(arrayOfNumbers) {
   }
   return sum;
 }
-// assignment.sumOfNumbers = sumOfNumbers;
+assignment.sumOfNumbers = sumOfNumbers;
 
 /**
  * Challenge - 2
@@ -38,7 +38,7 @@ function countEvenNumbers(arrayOfNumbers) {
   }
   return result;
 }
-// assignment.countEvenNumbers = countEvenNumbers;
+assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3
