@@ -17,7 +17,7 @@ function sumOfNumbers(arrayOfNumbers) {
     return arrayOfNumbers.length;
   let sum = 0;
   for (let i = 0; i<arrayOfNumbers.length; i++) {
-    sum = sum + arrayOfNumbers[i]
+    sum=sum +arrayOfNumbers[i]
   }
   return sum;
 }
